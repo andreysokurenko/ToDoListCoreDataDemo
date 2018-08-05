@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84F067F92117654B00E14640"
-               BuildableName = "ToDoList(CoreDataDemo ).app"
-               BlueprintName = "ToDoList(CoreDataDemo )"
-               ReferencedContainer = "container:ToDoList(CoreDataDemo ).xcodeproj">
+               BuildableName = "ToDoListCoreDataDemo.app"
+               BlueprintName = "ToDoListCoreDataDemo"
+               ReferencedContainer = "container:ToDoListCoreDataDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F067F92117654B00E14640"
-            BuildableName = "ToDoList(CoreDataDemo ).app"
-            BlueprintName = "ToDoList(CoreDataDemo )"
-            ReferencedContainer = "container:ToDoList(CoreDataDemo ).xcodeproj">
+            BuildableName = "ToDoListCoreDataDemo.app"
+            BlueprintName = "ToDoListCoreDataDemo"
+            ReferencedContainer = "container:ToDoListCoreDataDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F067F92117654B00E14640"
-            BuildableName = "ToDoList(CoreDataDemo ).app"
-            BlueprintName = "ToDoList(CoreDataDemo )"
-            ReferencedContainer = "container:ToDoList(CoreDataDemo ).xcodeproj">
+            BuildableName = "ToDoListCoreDataDemo.app"
+            BlueprintName = "ToDoListCoreDataDemo"
+            ReferencedContainer = "container:ToDoListCoreDataDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F067F92117654B00E14640"
-            BuildableName = "ToDoList(CoreDataDemo ).app"
-            BlueprintName = "ToDoList(CoreDataDemo )"
-            ReferencedContainer = "container:ToDoList(CoreDataDemo ).xcodeproj">
+            BuildableName = "ToDoListCoreDataDemo.app"
+            BlueprintName = "ToDoListCoreDataDemo"
+            ReferencedContainer = "container:ToDoListCoreDataDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
